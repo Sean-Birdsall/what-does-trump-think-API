@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+h4 input {
+  margin: 10px;
+}
+
+.one {
+  background-image: url('http://i2.cdn.turner.com/money/dam/assets/160224112545-trump-nevada-victory-speech-780x439.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 75%;
+  height: 450px;
+  margin: auto;
+}
+
+.randomQuote {
+  box-sizing: border-box;
+  margin: auto;
+  position: relative;
+  left: 200px;
+  top: 15px;
+  width: 300px;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  border-radius: 10px;
+}
